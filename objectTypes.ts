@@ -77,7 +77,7 @@ const cc: ColorfulCircle = {
   radius: 42,
 };
 
-"TypeScript provides another construct called intersection types that is mainly used to combine existing object types."
+// "TypeScript provides another construct called intersection types that is mainly used to combine existing object types."
 
 interface Colorful {
   color: string;
